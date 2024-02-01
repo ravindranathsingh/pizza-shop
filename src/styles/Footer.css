@@ -1,0 +1,33 @@
+.footer {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    background-color: #0F1035;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.footerCR {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    text-align: center;
+    cursor: default;
+    font-size: 0.9rem;
+}
+
+.footerCR svg {
+    font-size: 1.2rem;
+    margin-top: 0;
+}
+
+.footerContact {
+    display: flex;
+    gap: 20px;
+}
+
+#contact {
+    cursor: pointer;
+}
