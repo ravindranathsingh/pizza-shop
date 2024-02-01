@@ -24,8 +24,8 @@
   .menu-items {
     border-radius: 15px;
     width: 250px;
-    height: 350px;
-    margin: 20px;
+    height: 300px;
+    margin: 40px;
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
   }
   .menu-items:hover {
@@ -43,9 +43,9 @@
   }
   
   .menu-items h1 {
-    font-size: x-large;
-    margin-left: 20px;
-    padding: 10px;
+    font-size: 1.2rem;
+    margin-left: 5px;
+    padding: 5px;
   }
   .menu-items p {
     margin-left: 20px;
